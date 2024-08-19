@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Noah
   
-- 👀 I’m interested in Javascript and Python
+- 👀 I’m interested in Python
   
-- 🌱I intend to learn in-depth javascript and Python
+- 🌱I intend to learn in-depth java and Python
   
-- 🔥 I’m currently learning  and focus in Java
+- 🔥 I’m currently learning  and focus in python and c
   
 - 😄 Pronouns: He/His
   
