@@ -17,7 +17,6 @@
 - 🖋️ One sentence: Fear is the father of morality.
   
 - 📫 How to contact me:
-- phone number: +55 14 997814919
 - email: noahvf16@outlook.com
 - Instagram: @codernoahf
 <!---
