@@ -6,34 +6,14 @@
  Me chamo ***Noah Franco***, tenho 19 anos e sou do interior de São Paulo. Estou cursando 2° ano de ciencias da computação na Unimar. Sempre tive muita cuiosidade em relação a tecnologia, desde hardware até machine learn. Estou estudando java.
 <br>
 
-
-<img 
-    align="left" 
-    alt="email"
-    title="emai" 
-    style="padding-right: 10px;" 
-    href="https://mailto:noahvf16@outlook.com/"
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-/>
-
-<img
-    href="https://www.linkedin.com/in/noah-franco-108293264/" target="blank"
-    align="left" 
-    alt="noahfranco" 
-    height="30" 
-    width="40"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
- />
+<a href="https://linkedin.com/in/noah-franco-108293264" target="blank"><img align="center" style="padding-right: 10px;"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://instagram.com/devnoahf" target="blank"><img align="center" style="padding-right: 10px;"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta" /></a>
+<a href="emailhttps://mailto:noahvf16@outlook.com/" target="blank"><img align="center" style="padding-right: 10px;"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
 
-<img 
-    href="https://www.instagram.com/devnoahf/" target="blank"
-    alt="pedropietroluongo" 
-    height="30" 
-    width="40"
-    align="left" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  
-/>
+
+
+
 
 
 <br>
