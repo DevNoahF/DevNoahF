@@ -3,7 +3,19 @@
 
 
 
- Me chamo ***Noah Franco***, tenho 19 anos e sou do interior de São Paulo. Estou cursando 2° ano de ciencias da computação na Unimar. Sempre tive muita cuiosidade em relação a tecnologia, desde hardware até machine learn. Estou estudando java.
+👋 Olá! Me chamo Noah Franco, tenho 20 anos e sou do interior de São Paulo.
+🎓 Atualmente estou no 2º ano do curso de Ciência da Computação na Unimar.
+💡 Desde cedo, sempre fui movido pela curiosidade sobre tecnologia — desde o funcionamento de hardwares até a lógica por trás dos códigos.
+☕ Ultimamente, venho me aprofundando na linguagem Java, buscando me especializar em desenvolvimento backend e fortalecer minha base em estruturas de dados e orientação a objetos.
+
+👍 Estou sempre aberto a aprender coisas novas, colaborar em projetos e trocar experiências!
+<br>
+👋 Hi! My name is Noah Franco, I'm 20 years old and I'm from the countryside of São Paulo, Brazil.
+🎓 I'm currently in my 2nd year of Computer Science at Unimar.
+💡 I've always been curious about technology — from how hardware works to the logic behind code.
+☕ Lately, I've been focusing on Java, aiming to specialize in backend development while strengthening my understanding of data structures and object-oriented programming.
+
+👍 I'm always open to learning new things, collaborating on projects, and sharing experiences!
 <br>
 
 <a href="https://linkedin.com/in/noah-franco-108293264" target="blank"><img align="center" style="padding-right: 10px;"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
