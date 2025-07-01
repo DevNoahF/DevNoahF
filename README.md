@@ -17,8 +17,8 @@
 👍 I'm always open to learning new things, collaborating on projects, and sharing experiences!
 
 
-<a href="https://linkedin.com/in/noah-franco-108293264" target="blank"><img align="center" style="padding-right: 10px;"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="emailhttps://mailto:noahvf16@outlook.com/" target="blank"><img align="center" style="padding-right: 10px;"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://linkedin.com/in/noahmf" target="blank"><img align="center" style="padding-right: 10px;"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:noahvf16@outlook.com/" target="blank"><img align="center" style="padding-right: 10px;"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
 
 
