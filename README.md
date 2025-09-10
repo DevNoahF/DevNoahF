@@ -5,7 +5,7 @@
 👋 Olá! Me chamo Noah Franco, tenho 20 anos e sou do interior de São Paulo.  
 🎓 Atualmente estou no 2º ano do curso de Ciência da Computação na Unimar.  
 💡 Desde cedo, sempre fui movido pela curiosidade sobre tecnologia — desde o funcionamento de hardwares até a lógica por trás dos códigos.  
-☕ Ultimamente, venho me aprofundando na linguagem Java, buscando me especializar em desenvolvimento backend e fortalecer minha base em estruturas de dados e orientação a objetos.  
+☕ Ultimamente, venho me aprofundando na linguagem Java, buscando me especializar em desenvolvimento backend.  
 👍 Estou sempre aberto a aprender coisas novas, colaborar em projetos e trocar experiências!
 
 ---
@@ -13,7 +13,7 @@
 👋 Hi! My name is Noah Franco, I'm 20 years old and I'm from the countryside of São Paulo, Brazil.  
 🎓 I'm currently in my 2nd year of Computer Science at Unimar.  
 💡 I've always been curious about technology — from how hardware works to the logic behind code.  
-☕ Lately, I've been focusing on Java, aiming to specialize in backend development while strengthening my understanding of data structures and object-oriented programming.  
+☕ Lately, I've been focusing on Java, aiming to specialize in backend development.
 👍 I'm always open to learning new things, collaborating on projects, and sharing experiences!
 
 
