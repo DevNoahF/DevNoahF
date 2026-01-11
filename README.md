@@ -57,14 +57,6 @@
     title="SQLITE" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" 
-/>
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" 
-/>
 
 <img 
     align="left" 
