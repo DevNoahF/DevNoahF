@@ -8,7 +8,7 @@
 <br>
 
 ## Olá <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Me chamo Noah Franco, tenho 20 anos e sou do interior de São Paulo.  
-🎓 Atualmente estou no 2º ano do curso de Ciência da Computação na Unimar.  
+🎓 Atualmente estou no 3º ano do curso de Ciência da Computação na Unimar.  
 💡 Desde cedo, sempre fui movido pela curiosidade sobre tecnologia — desde o funcionamento de hardwares até a lógica por trás dos códigos.  
 ☕ Ultimamente, venho me aprofundando na linguagem Java, buscando me especializar em desenvolvimento backend.  
 👍 Estou sempre aberto a aprender coisas novas, colaborar em projetos e trocar experiências!
@@ -16,7 +16,7 @@
 ---
 
 ## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">,  My name is Noah Franco, I'm 20 years old and I'm from the countryside of São Paulo, Brazil.  
-🎓 I'm currently in my 2nd year of Computer Science at Unimar.  
+🎓 I'm currently in my 3nd year of Computer Science at Unimar.  
 💡 I've always been curious about technology — from how hardware works to the logic behind code.  
 ☕ Lately, I've been focusing on Java, aiming to specialize in backend development.
 👍 I'm always open to learning new things, collaborating on projects, and sharing experiences!
