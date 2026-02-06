@@ -1,12 +1,5 @@
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DevNoahF/DevNoahF/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/DevNoahF/DevNoahF/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/DevNoahF/DevNoahF/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
 <h1 align="center"><strong>Desenvolvedor Backend/Backend Developer</strong></h1>
@@ -62,6 +55,14 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevNoahF&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DevNoahF/DevNoahF/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DevNoahF/DevNoahF/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/DevNoahF/DevNoahF/output/github-contribution-grid-snake.svg">
+</picture>
 
 </p>
 
