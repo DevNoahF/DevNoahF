@@ -41,7 +41,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,git,mysql,postgres,azure,postman" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,git,mysql,postgres,azure,postman" />
+    
   </a>
 </p>
 
