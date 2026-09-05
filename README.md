@@ -28,9 +28,19 @@
 
 
 <!--widget site-->
-## 🌐 Projeto em produção
+## 🌐 Projetos em produção
 
-[![Deploy](https://img.shields.io/badge/Acessar%20Projeto-Online-green?style=for-the-badge)](https://consumingweatherbr.qzz.io/)
+### 🌦️ Visualizador de previsão do tempo
+*Aplicação web para consulta rápida de dados climáticos e meteorológicos.*
+- **Tecnologias:** [Java, Spring Boot, Redis, React]
+- [![Deploy](https://img.shields.io/badge/Acessar%20Projeto-Online-green?style=for-the-badge)](https://consumingweatherbr.qzz.io/)
+
+---
+
+### 📊 Plataforma de Liderança e Gestão do Conhecimento
+*Sistema de autodiagnóstico desenvolvido em parceria com BBGA-Unimar.*
+- **Tecnologias:** [Python, FastApi, HTML, CSS, JS]
+- [![Deploy](https://img.shields.io/badge/Acessar%20Projeto-Online-green?style=for-the-badge)](https://autodiagnostico-lideranca.onrender.com/)
 
 
 
